@@ -12,4 +12,4 @@ Manipulando maps
      android:value="Your Google maps API Key Here"/>
      
 - Documentação da instalação e configuaração https://github.com/react-native-maps/react-native-maps/blob/master/docs/installation.md
-- Reforçando  necessita da API key,então va ate o saite da  google e solicita a sua  https://cloud.google.com/ 
+- Reforçando  necessita da API key,então acesse  o saite da  google e solicita a sua  https://cloud.google.com/ 
